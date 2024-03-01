@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RiyadhBenhallou
 - 👀 I’m interested in Web Development and SaaS Projects
-- 🌱 I’m currently learning Full-Stack Web Development
+- 🌱 I’m a Full-Stack Web Developer
 - 💞️ I’m looking to collaborate on any Project
 - 📫 you can reach me in my Email: riyadh.benhallou@gmail.com
 
