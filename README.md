@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Riyadh Benhallou
 
-## 💻 Web Developer | 🎓 4rd Year CS Student
+## 💻 Web Developer | 🎓 4th Year CS Student
 
 I'm a passionate web developer with a strong background in data science. Currently pursuing my Computer Science degree, I love building robust and innovative web applications.
 
