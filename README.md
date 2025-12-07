@@ -13,8 +13,6 @@ I'm a passionate web developer with a strong background in data science. Current
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
 ### Frameworks & Libraries
 
@@ -23,9 +21,7 @@ I'm a passionate web developer with a strong background in data science. Current
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Bun](https://img.shields.io/badge/-Bun-000000?style=flat-square&logo=bun&logoColor=white)
-![Elysia](https://img.shields.io/badge/-Elysia-00A98F?style=flat-square&logo=elysia&logoColor=white)
 ![Hono](https://img.shields.io/badge/-Hono-FF6B6B?style=flat-square&logo=hono&logoColor=white)
 
 ### Databases
@@ -71,7 +67,7 @@ I'm a passionate web developer with a strong background in data science. Current
 
 ## 🤝 Let's Connect!
 
-- [LinkedIn](https://www.linkedin.com/in/riyadh-benhallou-8a9101291)
+- [LinkedIn](https://www.linkedin.com/in/riyadhbenhallou)
 - [Twitter](https://x.com/RiadhBenhallou)
 
 Feel free to explore my repositories and don't hesitate to reach out for collaborations or just a chat about tech!
